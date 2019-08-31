@@ -95,6 +95,6 @@ https://scrapbox.io/atsushi-work/
 | 案件名 | 作業内容 |
 | --- | --- |
 | [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/develop/first.md) | サーバ構築、テスト、保守 |
-| [ホスティング事業の運用・検証]() | 移行作業、テスト、運用 |
+| [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/develop/second.md) | 移行作業、テスト、運用 |
 | [クラウド移行支援]() | サーバ構築、見積もり、検証 |
 | [開発支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/develop/fourth.md) | サーバ構築、見積もり、検証 |
