@@ -9,8 +9,6 @@
 | Family | 既婚 |
 | Location | 埼玉県 |
 | Mail | atsushi586@yahoo.co.jp |
-| Github | https://github.com/atsushi-815 |
-| Qiita | https://qiita.com/atsushi586 |
 | Work | フリーランス |
 | Remarks | 現在インフラの現場にフリーランスとして常駐。</br>副業でLaravelを使用した開発支援業務。
 
@@ -38,23 +36,17 @@
 
 ## アウトプット
 
-### Github
-
-https://github.com/atsushi-815
+### [Github](https://github.com/atsushi-815)
 
 主に個人の勉強用と、副業で作成したLaravelのファイルのアップロードに使用。
 
-### Qiita
-
-https://qiita.com/atsushi586
+### [Qiita](https://qiita.com/atsushi586)
 
 業務で使用した機能と、勉強で知ったことのアウトプットに使用。
 
-### scrapbox
+### [scrapbox](https://scrapbox.io/atsushi-work/)
 
 技術メモ。
-
-https://scrapbox.io/atsushi-work/
 
 ## 使用技術ワード
 
@@ -96,5 +88,5 @@ https://scrapbox.io/atsushi-work/
 | --- | --- |
 | [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/first.md) | サーバ構築、テスト、保守 |
 | [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/second.md) | 移行作業、テスト、運用 |
-| [クラウド移行支援]() | サーバ構築、見積もり、検証 |
+| [クラウド移行支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/third.md) | サーバ構築、見積もり、検証 |
 | [開発支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | サーバ構築、見積もり、検証 |
