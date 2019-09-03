@@ -73,7 +73,7 @@
 * TeraTerm
 * git
 
-【言語】
+【言語・フレームワーク】
 
 * Laravel
 * Bash
