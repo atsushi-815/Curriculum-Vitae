@@ -38,7 +38,7 @@
 
 ### [Github](https://github.com/atsushi-815)
 
-主に個人の勉強用と、副業で作成したLaravelのファイルのアップロードに使用。
+主に個人の勉強用に使用。
 
 ### [Qiita](https://qiita.com/atsushi586)
 
