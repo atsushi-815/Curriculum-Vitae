@@ -49,18 +49,18 @@
 
 ## スキル
 
-| 技術 | 経験年数 |
-| --- | --- |
+| 技術 | 経験年数 | 備考 |
+| --- | --- | --- |
 | Linux | 6年 |
 | Windows | 4年 |
-| AWS | 2年 |
+| AWS | 2年 | 構築・運用 |
 | Apache | 2年 |
 | Bash | 2年 |
 | VBA | 2年 |
-| Azure | 1年 |
-| Nagios | 1年 |
-| Cacti | 1年 |
-| Nginx | 1年 |
+| Azure | 1年 | 構築 |
+| Nagios | 1年 | 構築・運用 |
+| Cacti | 1年 | 構築・運用 |
+| Nginx | 1年 | 詳細設計・構築・運用 |
 | MySQOL | 1年 |
 | Ansible | 1年未満 |
 | git | 1年未満 |
@@ -70,8 +70,8 @@
 
 | 案件名 | 作業内容 | 年数 |
 | --- | --- | --- |
-| [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/first.md) | サーバ構築、テスト、保守 | 4年 |
-| [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/second.md) | 移行作業、テスト、運用 | 1年 |
-| [クラウド移行支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/third.md) | クラウド環境構築、見積もり、検証 | 4ヶ月 |
-| [開発支援（ansible）](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | ansibleを使用してMWの構築とコード改修 | 5ヶ月〜 |
-| 開発支援（Laravel）| 副業。API作成、機能の微修正を担当 | 5ヶ月〜 |
+| [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/first.md) | サーバ構築、テスト、保守 | 2013年7月〜2017年9月 |
+| [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/second.md) | 移行作業、テスト、運用 | 2017年10月〜2018年10月 |
+| [クラウド移行支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/third.md) | クラウド環境構築、見積もり、検証 | 2019年1月〜2019年4月 |
+| [開発支援（ansible）](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | ansibleを使用してMWの構築とコード改修 | 2019年5月〜現在〜 |
+| 開発支援（Laravel）| 副業。API作成、機能の微修正を担当 | 2019年5月〜現在〜 |
