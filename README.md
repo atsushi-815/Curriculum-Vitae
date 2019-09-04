@@ -66,12 +66,12 @@
 | git | 1年未満 |
 | Laravel | 1年未満 |
 
-
 ### 実務経歴
 
-| 案件名 | 作業内容 |
-| --- | --- |
-| [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/first.md) | サーバ構築、テスト、保守 |
-| [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/second.md) | 移行作業、テスト、運用 |
-| [クラウド移行支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/third.md) | サーバ構築、見積もり、検証 |
-| [開発支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | サーバ構築、見積もり、検証 |
+| 案件名 | 作業内容 | 年数 |
+| --- | --- | --- |
+| [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/first.md) | サーバ構築、テスト、保守 | 4年 |
+| [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/second.md) | 移行作業、テスト、運用 | 1年 |
+| [クラウド移行支援](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/third.md) | クラウド環境構築、見積もり、検証 | 4ヶ月 |
+| [開発支援（ansible）](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | ansibleを使用してMWの構築とコード改修 | 5ヶ月〜 |
+| 開発支援（Laravel）| 副業。API作成、機能の微修正を担当 | 5ヶ月〜 |
