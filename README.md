@@ -2,21 +2,19 @@
 
 ## 基本情報
 
-| Item | Value |
+| 項目 | 値 |
 | --- | --- |
-| Age | 29 |
-| Name | Urakami Atsushi |
-| Family | 既婚 |
-| Location | 埼玉県 |
-| Mail | atsushi586@yahoo.co.jp |
-| Work | フリーランス |
-| Remarks | 現在インフラの現場にフリーランスとして常駐。</br>副業でLaravelを使用した開発支援業務。
+| 名前 | Urakami Atsushi |
+| 住所 | 埼玉県 |
+| メールアドレス | atsushi586@yahoo.co.jp |
+| 仕事 | フリーランス |
+| 近況 | 現在インフラの現場にフリーランスとして客先常駐。</br>副業でLaravelを使用した開発支援業務。
 
 ## 経歴
 
-| Year | Job |
+| 年 | 職務経歴 |
 | --- | --- |
-| 2012年4月〜2013年3月 | 総合商社：総合職 |
+| 2012年4月〜2013年3月 | 総合商社 |
 | 2013年4月〜2013年9月 | SES |
 | 2013年10月〜現在 | フリーランス |
 
@@ -49,41 +47,27 @@
 
 技術メモ。
 
-## 使用技術ワード
+## スキル
 
-【OS】
+| 技術 | 経験年数 |
+| --- | --- |
+| Linux | 6年 |
+| Windows | 4年 |
+| AWS | 2年 |
+| Apache | 2年 |
+| Bash | 2年 |
+| VBA | 2年 |
+| Azure | 1年 |
+| Nagios | 1年 |
+| Cacti | 1年 |
+| Nginx | 1年 |
+| MySQOL | 1年 |
+| Ansible | 1年未満 |
+| git | 1年未満 |
+| Laravel | 1年未満 |
 
-* Linux
-* Windows
-
-【MW】
-
-* Apache
-* Nagios
-* Nginx
-
-【クラウド】
-
-* AWS
-* Azure
-
-【ツール】
-
-* Ansible
-* VSCode
-* TeraTerm
-* git
-
-【言語・フレームワーク】
-
-* Laravel
-* Bash
-* VBA
 
 ### 実務経歴
-
-約6年ほどの業務経験があります。</br>
-案件名を選択すると、詳細が表示されます。
 
 | 案件名 | 作業内容 |
 | --- | --- |
