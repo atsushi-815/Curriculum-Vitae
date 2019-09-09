@@ -75,5 +75,5 @@
 | [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/first.md) | 物理サーバ構築、構築したサーバの検証、管理ジョブのアラート対応、定常業務効率化 | 2013年7月〜2017年9月 |
 | [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/second.md) | クラウド移行、サーバアラート・顧客問い合わせ対応 | 2017年10月〜2018年10月 |
 | [クラウド環境構築](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/third.md) | AWS・Azureサーバ構築 | 2019年1月〜2019年4月 |
-| [開発支援（ansible）](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | Ansibleを使用してMWの構築とコード改修 | 2019年5月〜現在 |
+| [開発支援（Ansible）](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | Ansibleを使用してMWの構築とコード改修 | 2019年5月〜現在 |
 | 開発支援（Laravel）| 副業。API作成、機能の微修正を担当 | 2019年5月〜現在 |
