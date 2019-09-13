@@ -13,4 +13,19 @@
 
 #### ポイント
 
-* 主にAWSを触る機会が多く、[スクラップボックス](https://scrapbox.io/atsushi-work/)にメモしている機能は一通り使用しています。
+AWSが主の現場で、下記機能については全て経験があります。
+
+* EC2
+* S3
+* subnet
+* Systems Manger
+* Certificate Manager
+* VPC
+* CloudFront
+* WorkSpaces
+* Direct connect
+* ALB
+* RDS
+* Cloudformer
+* AMI
+* ROUTE53
