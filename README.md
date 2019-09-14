@@ -68,12 +68,10 @@
 
 ### 実務経歴
 
-一部リンク先に詳細を記載していますので、気になるものがありましたらご確認ください。
-
 | 案件名 | 内容 | 年数 |
 | --- | --- | --- |
-| [大規模求人システム構築・保守](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/first.md) | 物理サーバ構築、検証、ジョブのアラート対応、定常業務効率化 | 2013年7月〜2017年9月 |
-| [ホスティング事業の運用・検証](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/second.md) | テクニカルサポート | 2017年10月〜2018年10月 |
-| [クラウド環境構築](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/third.md) | AWS・Azureサーバ構築 | 2019年1月〜2019年4月 |
-| [開発支援（Ansible）](https://github.com/atsushi-815/Curriculum-Vitae/blob/master/fourth.md) | Ansibleを使用してMWの構築と既存コード改修 | 2019年5月〜現在 |
-| 開発支援（Laravel）| 副業。API作成、機能の微修正を担当 | 2019年5月〜現在 |
+| 大規模求人システム構築・保守 | 物理サーバ構築、検証、ジョブのアラート対応、定常業務効率化 | 2013年7月〜2017年9月 |
+| [ホスティング事業の運用・検証 | テクニカルサポート | 2017年10月〜2018年10月 |
+| クラウド環境構築 | AWS・Azureサーバ構築 | 2019年1月〜2019年4月 |
+| 開発支援（Ansible） | Ansibleを使用してMWの構築と既存コード改修 | 2019年5月〜現在 |
+| 開発支援（Laravel） | 副業。API作成、機能の微修正を担当 | 2019年5月〜現在 |
