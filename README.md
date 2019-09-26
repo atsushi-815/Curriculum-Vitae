@@ -45,7 +45,7 @@ AWSなどのクラウド技術の仕事を探しています。
 
 ### [scrapbox](https://scrapbox.io/atsushi-work/)
 
-技術メモ。
+技術メモ。主にAWSとAnsibleについて記述。
 
 ## スキル
 
