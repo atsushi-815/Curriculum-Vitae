@@ -31,6 +31,7 @@ AWSなどのクラウド技術の仕事を探しています。
 | Microsoft Office Excel スペシャリスト | 2013 |
 | VBAエキスパート Excel VBA Basic | 2014 |
 | Lpic　Level１ | 2015 |
+| Lpic　Level2 | 2019 |
 | ITパスポート | 2015 |
 
 ## アウトプット
