@@ -59,7 +59,7 @@ AWSなどのクラウド技術の仕事を探しています。
 | Cacti | 1年 | 構築・運用 |
 | Nginx | 1年 | 詳細設計・構築・運用 |
 | MySQOL | 1年 |
-| Ansible | 1年未満 |
+| Ansible | 6ヶ月 |
 | git | 1年 |
 | Laravel | 1年未満 |
 
