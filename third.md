@@ -26,6 +26,5 @@ AWSが主の現場で、下記機能について経験があります。
 * Direct connect
 * ALB
 * RDS
-* Cloudformer
 * AMI
 * ROUTE53
