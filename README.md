@@ -47,10 +47,10 @@
 
 | 技術 | 経験年数 | 備考 |
 | --- | --- | --- |
-| Linux | 7年 |
+| Linux | 8年 |
 | Windows | 4年 |
-| AWS | 4年 | 構築・運用 |
-| Apache | 2年 |
+| AWS | 5年 | 構築・運用 |
+| Apache | 3年 |
 | Bash | 2年 |
 | VBA | 2年 |
 | Azure | 1年 | 構築 |
@@ -59,7 +59,7 @@
 | Nginx | 1年 | 詳細設計・構築・運用 |
 | MySQOL | 1年 |
 | Ansible | 6ヶ月 |
-| git | 1年 |
+| git | 2年 |
 | Laravel | 1年未満 |
 
 ### 実務経歴
