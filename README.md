@@ -8,7 +8,7 @@
 | 住所 | 埼玉県 |
 | メールアドレス | atsushi586@yahoo.co.jp |
 | 仕事 | フリーランス |
-| 近況 | Devopsのインフラ案件にフリーランスとして客先常駐。</br>副業でLaravelを使用した開発支援業務。
+| 近況 | 契約社員。 |
 
 ## 経歴
 
@@ -32,6 +32,8 @@
 | Lpic　Level１ | 2015 |
 | Lpic　Level2 | 2019 |
 | ITパスポート | 2015 |
+| AWS Certified Solutions Architect - Associate | 2021 |
+| AWS Certified SysOps Administrator - Associate | 2021 |
 
 ## アウトプット
 
