@@ -28,15 +28,15 @@
 | 資格名 | 取得年 |
 | --- | --- |
 | Microsoft Office Excel スペシャリスト | 2013 |
-| VBAエキスパート Excel VBA Basic | 2014 |
-| Lpic　Level１ | 2015 |
+| VBAエキスパート Excel VBA Basic | 2014/12 |
+| Lpic　Level１ | 2015/11 |
 | Lpic　Level2 | 2019/10 |
-| ITパスポート | 2015 |
+| ITパスポート | 2017/2 |
 | AWS Certified Solutions Architect - Associate | 2021/5 |
 | AWS Certified SysOps Administrator - Associate | 2021/11 |
 | AWS Certified Solutions Architect - Professional | 2022/2 |
 | AWS Certified Security – Specialty | 2022/5 |
-| CKA-JP | 2022/11 |
+| CKA | 2022/11 |
 
 ## アウトプット
 
