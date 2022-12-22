@@ -34,6 +34,9 @@
 | ITパスポート | 2015 |
 | AWS Certified Solutions Architect - Associate | 2021 |
 | AWS Certified SysOps Administrator - Associate | 2021 |
+| AWS Certified Solutions Architect - Professional | 2022 |
+| AWS Certified Security – Specialty | 2022 |
+| CKA-JP | 2022 |
 
 ## アウトプット
 
