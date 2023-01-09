@@ -36,7 +36,7 @@
 | AWS Certified SysOps Administrator - Associate | 2021/11 |
 | AWS Certified Solutions Architect - Professional | 2022/2 |
 | AWS Certified Security – Specialty | 2022/5 |
-| CKA | 2022/11 |
+| Certified Kubernetes Administrator (CKA) | 2022/11 |
 
 ## アウトプット
 
